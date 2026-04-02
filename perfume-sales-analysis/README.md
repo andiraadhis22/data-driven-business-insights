@@ -5,7 +5,7 @@ This project analyzes eBay fragrance listings to evaluate product performance an
 
 The analysis follows a structured workflow including **data cleaning, data processing, and data visualization**. Data preparation was performed using Power Query in Excel, and the dashboard was built in Power BI.
 
-Source: https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024
+**Source**: https://www.kaggle.com/datasets/kanchana1990/perfume-e-commerce-dataset-2024
 
 ## Report Preview
 
@@ -51,12 +51,12 @@ An interactive dashboard was developed in Power BI to analyze:
 - The Women’s segment shows stronger preference for higher-priced EDP products
 
 ### 3. Pricing & Sales Behavior
-- Most transactions occur within the mid-price range ($45–$75), where demand is strongest
-- Stock availability does not reliably predict sales performance
+- The highest concentration of transactions occurs within the **$25–$35** price range
+- There is no direct correlation between high stock availability and high sales performance
 - Brand positioning and pricing have a greater impact on sales than stock quantity
 
 ### 4. Brand Performance
-- A small number of established brands dominate sales across multiple segments
+- Sales are heavily driven by a few established brands, with Calvin Klein and Versace consistently generating the highest units sold across multiple segments
 - Some brands offer a wide product range but generate lower sales per item
 
 ### 5. Seller Distribution
@@ -66,15 +66,16 @@ An interactive dashboard was developed in Power BI to analyze:
 - Other regions show minimal seller activity and do not form a clear pattern
 - Item location represents seller location, not customer demand, as products can be shipped globally
 
+## Recommendations
+- **Prioritize Men’s EDT products**, as they deliver the strongest combination of sales volume and revenue.
+- **Leverage Women’s EDP products** to capture higher sales value per item despite lower sales volume.
+- **Focus on high-performing brands** such as **Calvin Klein and Versace**, which show consistent sales across segments.
+- **Price Range Optimization:** Focus inventory on the **$25–$35** range, as it is the busiest segment for driving mass sales and fast turnover.
+
 ## Conclusion
 This analysis suggests that dead stock risk in the fragrance resale market is closely related to how well product selection aligns with actual demand patterns. A small number of products generate most of the sales, while many others sell at much lower levels, indicating that demand is highly concentrated rather than evenly distributed. Stock availability alone does not guarantee stronger sales performance, and selecting products without considering these demand patterns increases the risk of slow-moving inventory. Therefore, a more demand-driven approach to product selection can help improve inventory turnover and reduce potential dead stock risk.
 
-## Recommendations
-- Focus on high-demand product types such as EDT for volume and EDP for higher value
-- Prioritize established brands with consistent performance across segments
-- Optimize pricing within the high-demand mid-range segment ($45–$75)
-- Avoid relying solely on stock levels as a performance indicator
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/adhisandira  
-Email: andiraadhis@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/adhisandira  
+**Email**: andiraadhis@gmail.com
