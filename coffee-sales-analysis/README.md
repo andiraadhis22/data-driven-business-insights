@@ -4,9 +4,10 @@
 This project demonstrates an end-to-end data analysis process using Microsoft Excel. The primary focus is transforming raw relational data tables into an interactive dashboard. This workflow encompasses data cleaning, table merging using lookup functions, data aggregation via Pivot Tables, and dynamic visualization.
 
 ## Report Preview
-(The interactive dashboard preview can be seen below)
+Below is a preview of the dashboard:
 
-![Report Preview](images/dashboard.png)
+![Report Preview](coffee-sales-analysis
+/preview.png)
 
 ## Tools & Functions Used
 - **Microsoft Excel**
