@@ -40,7 +40,7 @@ An interactive dashboard was developed in Power BI to analyze:
 - Pricing patterns and sales behavior
 - Seller distribution by geographic location
 
-## Key Insights from the Report
+## Key Insights
 
 ### 1. Product Performance
 - Eau de Toilette (EDT) shows the highest sales volume, especially in the Men’s segment
